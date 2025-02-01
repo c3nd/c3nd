@@ -1,7 +1,6 @@
 #        c3nd
 It is a short repo that showcases nearly everything about me
 - I am Nigerian  🇳🇬 🇳🇬 🇳🇬 🇳🇬
-- 15 (10th Grader as of writing)
 - A lil knowledge on how to computer 
 - willing to learn new things for the sake of it
 - ~~fuck~~ screw lightspeed
