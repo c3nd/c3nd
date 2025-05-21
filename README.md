@@ -94,7 +94,7 @@ from emojicombos.com⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ---
 
 ## 📞 Contact
-[@.c3nd_]{https://discordapp.com/users/1034575854979784774} on nearly every social there may be
+[ @.c3nd_ ]{ https://discordapp.com/users/1034575854979784774/ } on nearly every social there may be
 ^
 |
  Contact on Discord If anything arises!
