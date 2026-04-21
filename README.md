@@ -43,53 +43,37 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠀
 from emojicombos.com⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-# 🌌 c3nd: Student / Aspiring Astrophysicist / Amateur Coder & Computer Hobbyist
+# Resident Cognitohazard
 ---
 
-## 🚀 About Me
-
-- **Role:** Student & Aspiring Astrophysicist
-- **Current Path:** Preparing for college, passionate about physics and the cosmos
-- **Fun Fact:** Sagittarius A*, is one of the more acceptable blackholes 
-- **Vibe:** Outer space, cosmic curiosity, computer hardware and music
+## About Me
+https://c3nd.straw.page
 
 ---
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Java (ITS JAVA Certifed), HTML, CSS, JavaScript, C#
-- **Web:** Basic front-end development
-- **Other Interests:** Astronomy, physics, and cosmic exploration
+being retarded
 
 ---
 
 ## 🌠 Notable Projects
-
-- **Personal Website:** _Coming soon!_
-  - A space to share my journey, projects, and cosmic discoveries
+can you tell this was made by ai yet?
 
 ---
 
 ## 🎓 Education
-
-- **Status:** High school student, entering college soon
-- **Interests:** Astrophysics, general physics, programming, and science outreach
+esoteric wisdom and lore
 
 ---
 
 ## 📚 Currently Learning
-
-- Advanced Java concepts and object-oriented design
-- Front-end frameworks for dynamic web apps
-- Astrophysics fundamentals and observational techniques
+nothing
 
 ---
 
 ## 🌌 Cosmic Goals
-
-- Pursue a degree in astrophysics or physics
-- Contribute to astronomy research projects
-- Inspire others to look up and wonder
+maximalist capeshit
 
 ---
 
@@ -99,6 +83,4 @@ from emojicombos.com⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 |
  Contact on Discord If anything arises!
 
----
 
-> “There is little about the universe we know about, there is more that we know that we dont know about, and there is an incomprensible about of things about the universe that we dont know that we dont know” — Unknown.
